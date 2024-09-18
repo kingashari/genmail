@@ -1,1 +1,2 @@
 version 1.0 26/5/2024 Email username and password are still random, not like human names
+version RELOAD 1.1 has been release new metode using faker and saving in CSV (table)
