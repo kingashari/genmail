@@ -9,6 +9,7 @@ how to using
 1. Open via cmd by double-clicking on the file
 2. use vscode or other python debugger
 3. Telegram Bot (maybe someday this can be run with bots in telegram.
+4. install library faker (pip install faker for windows)
 
 
 # note 
